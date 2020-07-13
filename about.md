@@ -89,11 +89,11 @@ Additional information and code samples are available on request
  
 ### Contacts
 
-[https://www.linkedin.com/in/blackvs/](Me at Linkedin)
+[Me at Linkedin](https://www.linkedin.com/in/blackvs/)
 
-[https://www.facebook.com/sydorenko.volodymyr](Me at FB)
+[Me at FB](https://www.facebook.com/sydorenko.volodymyr)
 
-[https://www.hackerrank.com/BlackVS/](Me at Hackerrank)
+[Me at Hackerrank](https://www.hackerrank.com/BlackVS/)
 
 [vvs@coders.in.ua](mailto:vvs@coders.in.ua)
 
