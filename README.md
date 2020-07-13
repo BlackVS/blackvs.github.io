@@ -1,1 +1,1 @@
-Jekyll based github.io hosted coders.in.ua site.
+**Jekyll** based _github.io_ hosted [coders.in.ua](https://coders.in.ua) site.
