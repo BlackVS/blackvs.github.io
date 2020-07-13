@@ -90,11 +90,10 @@ Additional information and code samples are available on request
 ### Contacts
 
 [Me at Linkedin](https://www.linkedin.com/in/blackvs/)
-
 [Me at FB](https://www.facebook.com/sydorenko.volodymyr)
-
 [Me at Hackerrank](https://www.hackerrank.com/BlackVS/)
+[Me at GitHub](https://github.com/BlackVS)
 
-[vvs@coders.in.ua](mailto:vvs@coders.in.ua)
+[mailto:vvs@coders.in.ua](mailto:vvs@coders.in.ua)
 
 
