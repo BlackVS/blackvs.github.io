@@ -2,8 +2,8 @@
 categories: Uncategoried
 tags: null
 layout: post
-title: EPAM BotChallenge 2020: BomberMan
 published: true
+title: EPAM BotChallenge 2020: BomberMan 
 ---
 
 ![logo](../images/EPAM-2020-Bomber/logo.png)
