@@ -16,7 +16,7 @@ This time it was ... Bomber Man!!! Yep, how many houres were spent playing this 
 
 ![logo](../images/EPAM-2020-Bomber/board_240.png)
 
-Rules can be found here [logo](../images/EPAM-2020-Bomber/rules_v4_2.png )
+Rules can be found [here](../images/EPAM-2020-Bomber/rules_v4_2.png )
 
 I never wrote games bots before - have learned a lot about writing bots, specific algorithms, wrote my own and...
 
