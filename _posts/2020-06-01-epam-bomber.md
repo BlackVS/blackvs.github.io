@@ -1,5 +1,6 @@
 ---
 published: true
+title: EPAM 2020 Bot challenge: Bomberman
 ---
 
 ![logo](../images/EPAM-2020-Bomber/logo.png)
