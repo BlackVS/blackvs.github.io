@@ -20,6 +20,6 @@ I never wrote games bots before - have learned a lot about writing bots, specifi
 
 I was 5th, not bad for the first time %):
 
-![logo](../images/EPAM-2020-Bomber/logo.png)
+![logo](../images/EPAM-2020-Bomber/top.png)
 
 My bot source code is [here](https://github.com/BlackVS/botchallenge-epam-2020)
