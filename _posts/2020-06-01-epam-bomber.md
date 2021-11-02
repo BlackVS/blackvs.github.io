@@ -1,9 +1,5 @@
 ---
-categories: Uncategoried
-tags: null
-layout: post
-published: true
-title: EPAM BotChallenge 2020: BomberMan 
+published: false
 ---
 
 ![logo](../images/EPAM-2020-Bomber/logo.png)
