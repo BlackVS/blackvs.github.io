@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: EPAM 2020 Bot challenge: Bomberman
 ---
