@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![logo](../images/EPAM-2020-Bomber/logo.png)
