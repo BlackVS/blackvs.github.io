@@ -1,6 +1,25 @@
 ---
-published: false
+categories: Uncategoried
+tags: null
+layout: post
+title: EPAM BotChallenge 2020: BomberMan
+published: true
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![logo](../images/EPAM-2020-Bomber/logo.png)
+
+I accidentally found an interesting challenge - dedicated to old games bot challenge.
+
+This time it was ... Bomber Man!!! Yep, how many houres were spent playing this game long long ago !
+
+<!--more-->
+
+![logo](../images/EPAM-2020-Bomber/board_240.png)
+
+Rules can be found here [logo](../images/EPAM-2020-Bomber/rules_v4_2.png )
+
+I never wrote games bots before - have learned a lot about writing bots, specific algorithms, wrote my own and...
+
+I was 5th, not bad for the first time %):
+
+![logo](../images/EPAM-2020-Bomber/logo.png)
