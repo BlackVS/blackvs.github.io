@@ -14,12 +14,19 @@ This time it was ... Zombie.
 
 ![logo](../images/EPAM-2020-Zombie/board_240.png)
 
-Rules can be found [here](../images/EPAM-2020-Bomber/rules_v4_2.png )
+This time I was more prepered due to already had expirience of such challenge this summer.
 
-I never wrote games bots before - have learned a lot about writing bots, specific algorithms, wrote my own and...
+I wrote much more complicated bot code comparing to the summer, this time it was based on A* but modificated  by me to support also negative weights. I named it [Q*](https://github.com/BlackVS/botchallenge-epam-2020-Zombie/blob/main/current/qstar.py) $)
 
-I was 5th, not bad for the first time %):
 
-![logo](../images/EPAM-2020-Zombie/top.png)
+And I was 2nd!!! (thanks EPAM for prize!!!)
+
+![logo](../images/EPAM-2020-Zombie/scoreboard.png)
 
 My bot source code is [here](https://github.com/BlackVS/botchallenge-epam-2020-Zombie)
+
+My "control center":
+
+![logo](../images/EPAM-2020-Zombie/image1.png)
+
+![logo](../images/EPAM-2020-Zombie/image2.png)
