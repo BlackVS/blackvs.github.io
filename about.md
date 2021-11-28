@@ -65,9 +65,12 @@ ATL/WTL, STL, Boost, Win32, WCF, WPF, Wix, ActiveX, Entity Framework, Angular, e
 DirectX, OpenGL, etc
 
 ### Network/system administration
-Advanced networking for small and middle size companies including: DHCP, DNS, Routing, PPP, VLAN, Security and Firewall, VPN tunnels (EoIP, GRE, IPIP) and PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, QoS, Traffic shaping, Advanced Routing and Configuration, OSPF, Advanced Scripting, CAPsMAN, SIP
 
-_Windows world_ : WS2012/2016 AD with multiple-domain controllers/replication, DFS, DNS, Exchange, VPN, etc
+Advanced networking for small and middle size companies including: 
+DHCP, DNS, Routing, PPP, VLAN, Security and Firewall, VPN tunnels (EoIP, GRE, IPIP) and PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, QoS, Traffic shaping, Advanced Routing and Configuration, OSPF, Advanced Scripting, CAPsMAN, SIP
+
+_Windows world_ : WS2012/2016/2019 AD with multiple-domain controllers/replication, DFS, DNS, Exchange+DAG, VPN, etc
+
 _Linux world_ : Ubuntu/CentOS
 
 Deep experience with installation and maintenance of: Windows Server (starting from NT4 Server), Ubuntu (8.04..19.04), Kali, Apache/nginx, SVN, git, GitLab, mail servers (postfix/dovecot/RedMail/Modoboa), collaboration servers (JIRA/Confluence/Zentyal/Alfresco/OnlyOffice), ownCloud/nextCloud, Redis RabbitMQ, MySQL/MariaDB, FTP/FTPS, Let’s Encrypt
@@ -76,9 +79,9 @@ _Auto-Backups_ : Veeam/Nakivo/custom scripting
 
 _Virtualization/clouds_ : Hyper-V, ESXi, DigitalOcean, Hetzner, AWS
 
-_Monitoring_ : Nagios/Zabbix + Telegram bots, ELK, Grafana etc
+_Monitoring_ : Nagios/Zabbix + Telegram bots, ELK, Grafana, Graylog etc
 
-_IT services support_ : glpi+OCSng, JIRA ServiceDesk
+_IT services support_ : GGLPI+OCSng, JIRA ServiceDesk
 
 _Certificates_ : MTCNA, MTCRE, MTCWE
 
