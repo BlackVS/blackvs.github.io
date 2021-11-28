@@ -6,7 +6,7 @@ published: true
 
 ![logo](../images/EPAM-2020-Zombie/logo.png)
 
-One more bot challenge at teh end of 2020.
+One more bot challenge at the end of 2020.
 
 This time it was ... Zombie.
 
@@ -14,12 +14,12 @@ This time it was ... Zombie.
 
 ![logo](../images/EPAM-2020-Zombie/board_240.png)
 
-This time I was more prepered due to already had expirience of such challenge this summer.
+This time I was prepared much better due to already had expirience of such challenge this summer.
 
-I wrote much more complicated bot code comparing to the summer, this time it was based on A* but modificated  by me to support also negative weights. I named it [Q*](https://github.com/BlackVS/botchallenge-epam-2020-Zombie/blob/main/current/qstar.py) $)
+I wrote much more complicated bot code comparing to the summer's one, this time it was based on A* but modificated by me to support negative weights also. I named it [Q*](https://github.com/BlackVS/botchallenge-epam-2020-Zombie/blob/main/current/qstar.py) $)
 
 
-And I was 2nd!!! (thanks EPAM for prize!!!)
+And I was 2nd!!! (thanks to EPAM for cool prize!!!)
 
 ![logo](../images/EPAM-2020-Zombie/scoreboard.png)
 
