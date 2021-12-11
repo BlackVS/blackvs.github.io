@@ -17,7 +17,7 @@ This time I had not enough time to participate but I finally made some stuff I d
 
 ![board](../images/EPAM-2021-Tanki/scoreboard.png)
 
-Code and description to it can be found [here](https://github.com/BlackVS/tanki).
+Code and description to it can be found [here](https://github.com/BlackVS/Bots/tree/main/EPAM/2020/Zombie).
 
 Control center:
 
