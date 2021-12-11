@@ -23,7 +23,7 @@ And I was 2nd!!! (thanks to EPAM for cool prize!!!)
 
 ![logo](../images/EPAM-2020-Zombie/scoreboard.png)
 
-My bot source code is [here](https://github.com/BlackVS/botchallenge-epam-2020-Zombie)
+My bot source code is [here](https://github.com/BlackVS/Bots/tree/main/EPAM/2020/Zombie)
 
 My "control center":
 
