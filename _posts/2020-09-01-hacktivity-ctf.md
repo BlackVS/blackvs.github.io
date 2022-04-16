@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hactivity Con 2029 CTF
+title: Hactivity Con 2020 CTF
 published: true
 ---
 
